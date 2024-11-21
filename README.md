@@ -1,0 +1,1 @@
+A Python-based voice assistant that can perform various tasks such as playing YouTube videos, telling the time, fetching information from Wikipedia, telling jokes, and more. This project uses speech recognition and text-to-speech technologies to create an interactive voice assistant.
